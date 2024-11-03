@@ -1,0 +1,10 @@
+{
+  "name": "sharelaneqa12j_volha_alp",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olga Alp",
+  "license": "ISC",
+  "description": ""
+}
